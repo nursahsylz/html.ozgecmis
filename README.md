@@ -1,2 +1,2 @@
-# html.-zgecmis
+# html.ozgecmis
 Özgeçmişim
